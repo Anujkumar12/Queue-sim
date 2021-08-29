@@ -1,18 +1,17 @@
-# queue-sim
+# Queue Simulation
 
 ### Usage
 Using the Makefile
-```
+
 make
-```
+
 OR
-```
+
 g++ main.cpp -o main
-```
+
 Now the executable file can be run as:
-```
 ./main
-```
+
 
 ### Options given to the end-user: 
 ```
